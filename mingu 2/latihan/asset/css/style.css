@@ -1,0 +1,42 @@
+#judul {
+
+    font-style: italic;
+    color: rgb(54, 1, 129);
+    font-size: 45px;
+}
+
+.sub-judul {
+    color: brown;
+    text-shadow: 5px 3px 5px black;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.p1, .p3 {
+    color: green;
+    font-size: 30px;
+}
+
+.link:hover {
+    color: blue;
+    background-color: red;
+}
+
+.box {
+    border: 1px;
+    border: 2px solid blue;
+    margin: 10px;
+}
+
+.box .content {
+    color: white;
+    border: 1px solid red;
+    background-color: black;
+}
+
+body {
+    background-image: url(../image/benedettalegendskin.jpg);
+    background-size: 100%;
+}
